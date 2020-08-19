@@ -12,6 +12,7 @@ class Ioctl < Formula
   desc "ioctl is a command line interface for interacting with the IoTeX blockchain."
   homepage "https://docs.iotex.io/developer/get-started/ioctl-install.html"
   url "https://github.com/iotexproject/iotex-core/releases/download/v1.1.0/ioctl-darwin-amd64"
+  version "1.1.0"
   sha256 "62e2b4a9ae609784dae9a23b59ce5cd3b601e5a26ab77ecb9c33d59c7949d9c4"
 
   # depends_on "cmake" => :build
